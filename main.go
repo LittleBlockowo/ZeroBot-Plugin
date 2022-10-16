@@ -281,3 +281,5 @@ func main() {
 		})
 	zero.RunAndBlock(config.Z, process.GlobalInitMutex.Unlock)
 }
+//最後我想説的是偷看我源代碼的都是個jb
+
